@@ -1,5 +1,9 @@
 # lista_de_tarefas_flutter
 
+Aplicativo desenvolvido em Dart (Flutter) como componente de aprendizagem do curso de Flutter da Udemy. 
+
+A lista é perfeitamente funcional, armazenando, checando e deletando tarefas de uma lista.
+
 A new Flutter application.
 
 ## Getting Started
